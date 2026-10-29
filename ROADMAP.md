@@ -23,7 +23,7 @@ The first release prioritizes binary, patient-level classification and a fast lo
 ## Release checklist
 
 - [x] Choose a GitHub owner and confirm the repository/package name (`pemalama12/health-model-report`).
-- [ ] Push source and run the configured CI matrix.
+- [x] Push source and run the configured CI matrix (Python 3.11, 3.12, and 3.13 passed).
 - [ ] Turn a few small roadmap items into `good first issue` tickets.
 - [x] Add the actual GitHub repository URL to package metadata and README.
 - [x] Review example reports and screenshots for the release.
