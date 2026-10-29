@@ -1,0 +1,4 @@
+include CONTRIBUTING.md ROADMAP.md
+recursive-include docs *.jpg
+recursive-include examples *.csv *.html *.json
+recursive-include .github *.md *.yml
